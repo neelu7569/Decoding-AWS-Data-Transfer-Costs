@@ -1,4 +1,4 @@
-# AWS Data Transfer Costs Wiki
+# Decoding AWS Data Transfer Costs 🔍📦💰
 
 AWS's data transfer costs can be complex, but understanding them is critical for optimizing cloud architecture and avoiding surprise bills. This wiki is designed to help you decode AWS's data transfer pricing structure with ease.
 

@@ -28,6 +28,8 @@ Let’s break down the cost components, key concepts, and best practices for min
 
 ## 3. Comprehensive AWS Data Transfer Cost Matrix
 
+![AWS Data Transfer Overview](./aws-data-transfer-costs.gif)
+
 | Source           | Destination           | Scope             | Interface        | Type           | Cost (USD/GB)   | Hourly Cost  | Notes                                             |
 |------------------|------------------------|--------------------|-------------------|----------------|------------------|--------------|---------------------------------------------------|
 | EC2 in AZ A      | EC2 in AZ A            | Intra-AZ           | Private           | VPC            | Free             | -            | Always free for same AZ                          |
